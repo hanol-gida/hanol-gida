@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**hanol-gida/hanol-gida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**hanol-gida/hanol-gida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.Cancel changes
 
 Here are some ideas to get you started:
 
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://github.com/patience94/patience94" target="_blank"><img src="https://img.shields.io/badge/When I was in university-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
+<a href="https://github.com/patience94" target="_blank"><img src="https://img.shields.io/badge/When I was in university-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
 
 
 https://github.com/patience94/patience94
